@@ -5,6 +5,6 @@ deploy:
   provider: heroku
   api_key:
     secure: IeYOvHnHNtGJNApYJsTjnV753oAD7/crxWZWnmwCjDh/OEk8whZBK+TOOaFEO3sqZu+G4ZE4oDASiO+AatUY0AeaUUCy9O+/btU3YQ9SjfBNxACbwFQbmtED3kb3rxonEnUp4HycJ/2B3agflQa/lypO8kdkjIOvigXUZPCZm9n2aLgRSyYeHKYMstkaiKCLzrTjP3tkQ8l/+/yvIBLeF3zCmLPkSsMpiolRH52YZiXBrFjw4hEzncyPIapakvY/xL34WgLfHHIFum1tP7jjrunumac0p+oPUn3qq+i8gc+ZQf7CvC4C6YwXkfMI5hwYcQbhF0WKm9DO4ckzCsJy+av6mi7Ma5G1mY+IReiaDrc4nyZPQwOFat89AZwvMeRbLfmeHO4Lu+KDNIImRRvxwPIxACCmyCuqXxpyQYEtY/FZ9ehk0AtX8p/MjScOC47fGi/BrXq5lqqvHxCk7lv+p/7ZY2AqN9KqWnuNgqHB6NHVpUgQ9rEW2ALyu4z0QX813akEaJf5eheFm8EbpGfXKXsHkWrdEUQGlwWVWRz+6vp7KqaKYXgO31G+x4CIzBOmBJr9qg59lHVQwHwhUm/BjsBKuDfSMhfh4JxQfgWWVU6qMYY9SXlX/jBK5TOr0W2W9Vb7zyIGnfn+qgw1goYQ3d8z5uU46yCSRx0Ga+ACqtk=
-  app: Project-LP4A-TD
+  app: lp4atd
   on:
     repo: EleryanYuri/Project-LP4A-TD
