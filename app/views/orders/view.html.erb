@@ -1,0 +1,22 @@
+<b>commande</b> 
+<br>
+<% @orders.each do |order| %>
+<br>
+<table align=center border=1 >
+  <tr align-text=center > 
+	<td>Nom:
+	<td>Adresse
+	<td> Pizzas
+  </tr>
+  <tr>
+	<td> <%= order[:order][:name]  %>
+	<td> <%= order[:order][:address] %>
+	<td> <table border=1 >
+		<% order[:pizzas].each do |pizza| %>
+                     <tr><td> <%= pizza[:name] %> <td> <img src="<%= pizza[:url] %>" width="50px" height="50px" />
+                <% end %>
+	     </table>
+  </tr>
+</table>
+<% end %>
+<br>
